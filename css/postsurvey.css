@@ -1,0 +1,19 @@
+
+.studyNav {
+    width: 125px;
+    height: 32px;
+    border: none;
+    background-color: #1f77b4;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.studyRed {
+    color: #d62728;
+}
+
+.studyBlue {
+    color: #1f77b4;
+}
