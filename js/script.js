@@ -11,7 +11,9 @@ let ul = document.querySelectorAll('li');;
 // const letters= ["B", "G", "H", "A", "F", "C", "D", "E", " "]   // --0
 // const letters= ["J", " ", "C", "D", "B", "A", "F", "H", "E", "N", "G", "K", "I", "M", "O", "L"] // to test task difficulty --1
 // const letters= ["6", "10", "5", "2", "1", "14", "4", "11", "9", "3", "8", "12", "13", "15", "7", " "] // to test task difficulty --26 moves
-const letters= ["6", "5", "2", "4", "1", "10", "3", "8", "9", "14", "7", "11", "13", "15", "12", " "] // to test task difficulty --14 moves
+// const letters= ["6", "5", "2", "4", "1", "10", "3", "8", "9", "14", "7", "11", "13", "15", "12", " "] // to test task difficulty --14 moves
+const letters= ["6", "5", "2", "4", "1", " ", "3", "8", "9", "10", "7", "11", "13", "14", "15", "12"] // to test task difficulty --10 moves
+
 // const letters= ["B", "H", "C", "A", " ", "G", "D", "F", "E"]  // --2  283107465
 // const goal = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", ""]
 const goal = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", ""]
